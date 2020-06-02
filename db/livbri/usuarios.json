@@ -1,0 +1,4 @@
+{ "_id" : ObjectId("5e9a0d301d44501e9425fef6"), "nome" : "Armando Henrique", "email" : "armando@pedro.com", "__v" : 0 }
+{ "_id" : ObjectId("5eb2eb23e83d6d1c98670831"), "nome" : "Reinaldo Henrique", "email" : "armando@henrique.com", "senha" : "1234", "__v" : 0 }
+{ "_id" : ObjectId("5ebd4ae96b9b51270cfe8b8b"), "nome" : "joao", "email" : "joao@joao.com", "senha" : "1234", "__v" : 0, "nivel" : "user" }
+{ "_id" : ObjectId("5ebd583c27f6710fd035c4d2"), "nome" : "joao vitor", "email" : "joao@joao.com.br", "senha" : "1234", "__v" : 0, "nivel" : "adm" }
